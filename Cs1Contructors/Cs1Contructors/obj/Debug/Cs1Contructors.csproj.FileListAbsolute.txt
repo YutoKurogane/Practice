@@ -1,0 +1,7 @@
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs1Contructors\Cs1Contructors\bin\Debug\Cs1Contructors.exe.config
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs1Contructors\Cs1Contructors\bin\Debug\Cs1Contructors.exe
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs1Contructors\Cs1Contructors\bin\Debug\Cs1Contructors.pdb
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs1Contructors\Cs1Contructors\obj\Debug\Cs1Contructors.csprojResolveAssemblyReference.cache
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs1Contructors\Cs1Contructors\obj\Debug\Cs1Contructors.csproj.CoreCompileInputs.cache
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs1Contructors\Cs1Contructors\obj\Debug\Cs1Contructors.exe
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs1Contructors\Cs1Contructors\obj\Debug\Cs1Contructors.pdb
