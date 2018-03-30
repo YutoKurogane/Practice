@@ -1,0 +1,7 @@
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs3Method\Cs3Method\bin\Debug\Cs3Method.exe.config
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs3Method\Cs3Method\bin\Debug\Cs3Method.exe
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs3Method\Cs3Method\bin\Debug\Cs3Method.pdb
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs3Method\Cs3Method\obj\Debug\Cs3Method.csprojResolveAssemblyReference.cache
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs3Method\Cs3Method\obj\Debug\Cs3Method.csproj.CoreCompileInputs.cache
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs3Method\Cs3Method\obj\Debug\Cs3Method.exe
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs3Method\Cs3Method\obj\Debug\Cs3Method.pdb
