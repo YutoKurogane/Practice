@@ -1,0 +1,7 @@
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs2Fields\Cs2Fields\bin\Debug\Cs2Fields.exe.config
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs2Fields\Cs2Fields\bin\Debug\Cs2Fields.exe
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs2Fields\Cs2Fields\bin\Debug\Cs2Fields.pdb
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs2Fields\Cs2Fields\obj\Debug\Cs2Fields.csprojResolveAssemblyReference.cache
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs2Fields\Cs2Fields\obj\Debug\Cs2Fields.csproj.CoreCompileInputs.cache
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs2Fields\Cs2Fields\obj\Debug\Cs2Fields.exe
+C:\Users\K.Y Lui\Desktop\Coding stuff\Practice\Cs2Fields\Cs2Fields\obj\Debug\Cs2Fields.pdb
